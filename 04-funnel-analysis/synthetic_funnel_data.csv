@@ -1,0 +1,6 @@
+Stage,Users Entering,Users Completing,Conversion %,Drop-off Count,Drop-off %
+Awareness,—,100000,— (entry point),0,—
+Sign-Up,"100,000","32,000",32.0%,"68,000",68.0%
+Verification (KYC),"32,000","19,040",59.5%,"12,960",40.5%
+First Transaction,"19,040","13,328",70.0%,"5,712",30.0%
+Repeat Usage,"13,328","4,665",35.0%,"8,663",65.0%
